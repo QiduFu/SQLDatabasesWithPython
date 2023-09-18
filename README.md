@@ -7,7 +7,7 @@ By Qidu(Quentin) Fu
 - [3 Results](#3)
   - [3.1 Project 1](#3.1)
   - [3.2 Project 2](#3.2)
-- [Acknowledgements](#4)
+- [4 Acknowledgements](#4)
 
 <a name='1'></a>
 ## 1 Introduction 
@@ -18,8 +18,8 @@ These repository includes two projects, specifically, these two project aim for 
 <a name='2'></a>
 ## 2 Methodology
 To complete the aformentioned tasks, my project code files:
-- (project 1) read an iTunes export file in XML and produce a properly normalized database
-- (project 2) read roster data in JSON format, parse the file, and then produce an SQLite database that contains a User, Course, and Member table and populate the tables
+- (project 1) read(s) an iTunes export file in XML and produce a properly normalized database
+- (project 2) read(s) roster data in JSON format, parse the file, and then produce an SQLite database that contains a User, Course, and Member table and populate the tables
 
 <a name='3'></a>
 ## 3 Results 
