@@ -1,4 +1,4 @@
-# SQLDatabasesWithPython
+# Organize Data Into Databases
 By Qidu(Quentin) Fu
 
 ## Outline
