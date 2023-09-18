@@ -23,11 +23,11 @@ To complete the aformentioned tasks, my project code files:
 
 <a name='3'></a>
 ## Results 
-Content below presents and visualizes the answers to the questions in the introduction. 
+Below presents the project results through the two different codes files. 
 
 <a name='3.1'></a>
 ### 3.1 Project 1
-Project 1 read an iTunes export file in XML and produce a properly normalized database
+Project 1 ([code file](https://github.com/Qidu-Quentin-Fu/SQLDatabasesWithPython/blob/1f7decb91c4a9d9d64e362569c27e2560a0d03c1/tracksProject1.py)) read an iTunes export file in XML and produce a properly normalized database
 
 **Image 1**
 
@@ -35,7 +35,7 @@ Project 1 read an iTunes export file in XML and produce a properly normalized da
 
 <a name='3.2'></a>
 ### 3.2 Project 2
-Project 2 read roster data in JSON format, parse the file, and then produce an SQLite database that contains a User, Course, and Member table and populate the tables
+Project 2 ([code file](https://github.com/Qidu-Quentin-Fu/SQLDatabasesWithPython/blob/1f7decb91c4a9d9d64e362569c27e2560a0d03c1/studentRosterProject2.py))read roster data in JSON format, parse the file, and then produce an SQLite database that contains a User, Course, and Member table and populate the tables
 
 **Image 2**
 
