@@ -16,13 +16,13 @@ These repository includes two projects, specifically, these two project aim for 
 - project2 (mapping students and classes): Build and join tables/dataset to organize students/classes memberships on the [given dataset](https://www.py4e.com/tools/sql-intro/roster_data.php?PHPSESSID=3d761449819ed661d68425bb071933cb)
 
 <a name='2'></a>
-## Methodology
+## 2 Methodology
 To complete the aformentioned tasks, my project code files:
 - (project 1) read an iTunes export file in XML and produce a properly normalized database
 - (project 2) read roster data in JSON format, parse the file, and then produce an SQLite database that contains a User, Course, and Member table and populate the tables
 
 <a name='3'></a>
-## Results 
+## 3 Results 
 Below presents the project results through the two different codes files. 
 
 <a name='3.1'></a>
@@ -42,5 +42,5 @@ Project 2 ([code file](https://github.com/Qidu-Quentin-Fu/SQLDatabasesWithPython
 <img align='center' src='image2.png'>
 
 <a name='4'></a>
-## Acknowledgements
+## 4 Acknowledgements
 These are assignments completed for the coursera course: Using Databases with Python by Charles Russell Severance
