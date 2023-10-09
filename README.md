@@ -11,7 +11,7 @@ By Qidu(Quentin) Fu
 
 <a name='1'></a>
 ## 1 Introduction 
-These repository includes two projects, specifically, these two project aim for the tasks below respectively:
+This repository includes two projects, specifically, these two project aim for the tasks below respectively:
 - project1 (multi-table databases): Build and join tables/database to organize musical tracks with artists, albums, and genres on the [give dataset](http://www.py4e.com/code3/tracks.zip)
 - project2 (mapping students and classes): Build and join tables/dataset to organize students/classes memberships on the [given dataset](https://www.py4e.com/tools/sql-intro/roster_data.php?PHPSESSID=3d761449819ed661d68425bb071933cb)
 
