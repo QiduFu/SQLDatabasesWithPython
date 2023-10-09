@@ -1,4 +1,4 @@
-# Organize Data Into Databases
+# Extract From and Organize Data Into Databases
 By Qidu(Quentin) Fu
 
 ## Outline
