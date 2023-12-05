@@ -1,4 +1,4 @@
-# Extract From and Organize Data Into Databases
+# Organize and Store Data Into Normalized Databases
 By Qidu(Quentin) Fu
 
 ## Outline
