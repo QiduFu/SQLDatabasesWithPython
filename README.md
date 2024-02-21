@@ -1,5 +1,5 @@
 # Organize and Store Data Into Normalized Databases
-By Qidu(Quentin) Fu
+By Qidu Fu
 
 ## Outline
 - [1 Introduction](#1)
